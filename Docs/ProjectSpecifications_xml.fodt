@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2017-03-06T18:48:54</meta:creation-date><dc:language>en-US</dc:language><dc:creator>Ira Bletz</dc:creator><meta:print-date>2017-03-07T06:32:18</meta:print-date><dc:date>2017-03-27T18:34:18</dc:date><meta:editing-cycles>24</meta:editing-cycles><meta:editing-duration>PT8M</meta:editing-duration><meta:generator>LibreOffice/5.1.6.2$Linux_X86_64 LibreOffice_project/10m0$Build-2</meta:generator><meta:document-statistic meta:paragraph-count="295"/></office:meta>
+ <office:meta><meta:creation-date>2017-03-06T18:48:54</meta:creation-date><dc:language>en-US</dc:language><meta:print-date>2017-03-07T06:32:18</meta:print-date><dc:date>2017-03-28T02:50:12.307101313</dc:date><meta:editing-cycles>25</meta:editing-cycles><meta:editing-duration>PT17M25S</meta:editing-duration><meta:generator>LibreOffice/5.1.6.2$Linux_X86_64 LibreOffice_project/10m0$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:image-count="0" meta:object-count="0" meta:page-count="11" meta:paragraph-count="282" meta:word-count="1880" meta:character-count="11378" meta:non-whitespace-character-count="9952"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">180</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">48133</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">26718</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">37195</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">20646</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">15272</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">4457</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">9802</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">3962</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">48131</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">26716</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">180</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">37193</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">20824</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="ZoomFactor" config:type="short">85</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">110</config:config-item>
      <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
     </config:config-item-map-entry>
    </config:config-item-map-indexed>
@@ -68,7 +68,7 @@
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">true</config:config-item>
    <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">281193</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">374880</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -120,6 +120,7 @@
   </office:script>
  </office:scripts>
  <office:font-face-decls>
+  <style:font-face style:name="sans-serif" svg:font-family="sans-serif"/>
   <style:font-face style:name="DejaVu Sans" svg:font-family="&apos;DejaVu Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
@@ -1708,7 +1709,7 @@
   <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
   <text:linenumbering-configuration text:number-lines="false" text:offset="0.1965in" style:num-format="1" text:number-position="left" text:increment="5"/>
   <style:default-page-layout>
-   <style:page-layout-properties style:layout-grid-standard-mode="true"/>
+   <style:page-layout-properties style:writing-mode="lr-tb" style:layout-grid-standard-mode="true"/>
   </style:default-page-layout>
  </office:styles>
  <office:automatic-styles>
@@ -1722,7 +1723,7 @@
    <style:table-column-properties style:column-width="1.7313in"/>
   </style:style>
   <style:style style:name="Table1.D" style:family="table-column">
-   <style:table-column-properties style:column-width="2.0632in"/>
+   <style:table-column-properties style:column-width="2.0639in"/>
   </style:style>
   <style:style style:name="Table1.1" style:family="table-row">
    <style:table-row-properties fo:keep-together="auto"/>
@@ -1739,181 +1740,251 @@
   </style:style>
   <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Header">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties officeooo:paragraph-rsid="0005b860"/>
   </style:style>
-  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="">
-   <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Header">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
   </style:style>
   <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
   </style:style>
   <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:line-height="150%"/>
    <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="">
-   <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="">
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:text-underline-style="none" fo:background-color="#ffff00" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
   </style:style>
-  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="">
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:text-underline-style="none" fo:font-weight="bold" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" fo:background-color="#ffff00" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
   </style:style>
-  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="">
-   <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" fo:background-color="#ffff00" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="normal" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="normal" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="normal" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="normal" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="">
-   <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="normal" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="normal" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="">
    <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="normal" fo:background-color="#ffff00" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="normal" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:line-height="150%" fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="32pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="32pt" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="32pt" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:line-height="150%" fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="14pt" fo:language="en" fo:country="US" fo:font-style="italic" fo:font-weight="bold" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="14pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="14pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="italic" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="">
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="14pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="14pt" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="14pt" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:line-height="150%" fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="18pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="18pt" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="18pt" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:line-height="150%" fo:text-align="center" style:justify-single-word="false"/>
-  </style:style>
-  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum1">
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:line-height="150%"/>
   </style:style>
-  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:line-height="150%" fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:line-height="150%" fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#1d2129" style:font-name="Liberation Serif" fo:font-size="18pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="normal" fo:font-weight="bold" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="18pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="18pt" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum4"/>
-  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum2"/>
-  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name=""/>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:line-height="150%" fo:padding-left="0in" fo:padding-right="0in" fo:padding-top="0.0138in" fo:padding-bottom="0in" fo:border-left="none" fo:border-right="none" fo:border-top="0.26pt solid #000001" fo:border-bottom="none"/>
   </style:style>
-  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum1">
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:line-height="150%" fo:padding-left="0in" fo:padding-right="0in" fo:padding-top="0in" fo:padding-bottom="0.0138in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.26pt solid #000001"/>
   </style:style>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="Standard">
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
    <style:paragraph-properties fo:line-height="150%" style:page-number="auto"/>
    <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
   </style:style>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" fo:orphans="2" fo:widows="2"/>
   </style:style>
-  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties fo:color="#00000a" style:font-name="DejaVu Sans" fo:font-size="12pt" fo:language="en" fo:country="US" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
   </style:style>
-  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Header">
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="Standard">
+   <style:paragraph-properties fo:line-height="150%" style:page-number="auto"/>
+   <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:line-height="150%" fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="16pt" fo:font-weight="bold" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:line-height="150%" fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="32pt" fo:font-weight="bold" style:font-size-asian="32pt" style:font-weight-asian="bold" style:font-size-complex="32pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:line-height="150%" fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="18pt" fo:font-style="italic" fo:font-weight="bold" style:font-size-asian="18pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="18pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:line-height="150%" fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="18pt" fo:font-weight="bold" style:font-size-asian="18pt" style:font-weight-asian="bold" style:font-size-complex="18pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum1">
+   <style:paragraph-properties fo:line-height="150%"/>
+   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum4">
+   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum4">
+   <style:text-properties fo:font-weight="normal" fo:background-color="#ffff00" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum4"/>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum4">
+   <style:text-properties fo:font-size="14pt" fo:font-weight="bold" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum4">
+   <style:text-properties fo:font-size="14pt" fo:font-weight="bold" fo:background-color="#ffff00" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum4">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum2">
+   <style:text-properties fo:font-weight="bold" fo:background-color="#ffff00" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum4">
+   <style:text-properties fo:font-size="12pt" fo:font-weight="bold" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum4">
+   <style:text-properties fo:font-size="12pt" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum4">
+   <style:text-properties style:text-underline-style="none" fo:background-color="#ffff00"/>
+  </style:style>
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:background-color="#ffff00"/>
+  </style:style>
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum4">
+   <style:text-properties fo:background-color="#ffff00"/>
+  </style:style>
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum4">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:line-height="150%" fo:padding-left="0in" fo:padding-right="0in" fo:padding-top="0.0138in" fo:padding-bottom="0in" fo:border-left="none" fo:border-right="none" fo:border-top="0.26pt solid #000001" fo:border-bottom="none"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum1">
+   <style:paragraph-properties fo:line-height="150%" fo:padding-left="0in" fo:padding-right="0in" fo:padding-top="0in" fo:padding-bottom="0.0138in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.26pt solid #000001"/>
+   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Header">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties officeooo:paragraph-rsid="0005b860"/>
+  </style:style>
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties style:font-name="DejaVu Sans" fo:font-size="15pt" fo:font-weight="bold" style:font-size-asian="15pt" style:font-weight-asian="bold" style:font-size-complex="15pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" fo:orphans="2" fo:widows="2"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#1d2129" style:font-name="DejaVu Sans" fo:font-size="12pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T2" style:family="text">
-   <style:text-properties style:text-position="super 58%"/>
+   <style:text-properties officeooo:rsid="0005b860"/>
   </style:style>
   <style:style style:name="T3" style:family="text">
-   <style:text-properties fo:font-size="16pt" fo:font-weight="bold" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="T4" style:family="text">
-   <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="16pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="16pt" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="16pt" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="T5" style:family="text">
-   <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="32pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="32pt" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="32pt" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="T6" style:family="text">
-   <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="18pt" fo:language="en" fo:country="US" fo:font-style="italic" fo:font-weight="bold" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="18pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="18pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="italic" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="T7" style:family="text">
-   <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="18pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="18pt" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="18pt" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="T8" style:family="text">
-   <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="T9" style:family="text">
-   <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="bold" fo:background-color="#ffff00" loext:char-shading-value="0" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="T10" style:family="text">
-   <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="normal" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="normal" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="T11" style:family="text">
-   <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="normal" fo:background-color="#ffff00" loext:char-shading-value="0" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="normal" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="T12" style:family="text">
-   <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
-  </style:style>
-  <style:style style:name="T13" style:family="text">
-   <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" fo:background-color="#ffff00" loext:char-shading-value="0" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
-  </style:style>
-  <style:style style:name="T14" style:family="text">
-   <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:text-underline-style="none" fo:font-weight="bold" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="T15" style:family="text">
-   <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="14pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="14pt" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="14pt" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="T16" style:family="text">
-   <style:text-properties fo:color="#00000a" style:font-name="DejaVu Sans" fo:font-size="15pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="15pt" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="15pt" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="T17" style:family="text">
-   <style:text-properties fo:font-size="26pt" fo:font-weight="bold" style:font-size-asian="26pt" style:font-weight-asian="bold" style:font-size-complex="26pt" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="T18" style:family="text">
-   <style:text-properties fo:font-size="32pt" fo:font-weight="bold" style:font-size-asian="32pt" style:font-weight-asian="bold" style:font-size-complex="32pt" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="T19" style:family="text">
-   <style:text-properties fo:font-size="14pt" fo:font-style="italic" fo:font-weight="bold" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="T20" style:family="text">
-   <style:text-properties fo:font-size="14pt" fo:font-weight="bold" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="T21" style:family="text">
-   <style:text-properties fo:font-size="14pt" fo:font-weight="bold" fo:background-color="#ffff00" loext:char-shading-value="0" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="T22" style:family="text">
-   <style:text-properties style:text-position="super 58%"/>
-  </style:style>
-  <style:style style:name="T23" style:family="text">
-   <style:text-properties style:text-position="super 58%" fo:font-size="14pt" fo:font-style="italic" fo:font-weight="bold" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="T24" style:family="text">
-   <style:text-properties fo:font-size="18pt" fo:font-style="italic" fo:font-weight="bold" style:font-size-asian="18pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="18pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="T25" style:family="text">
-   <style:text-properties fo:font-size="18pt" fo:font-weight="bold" style:font-size-asian="18pt" style:font-weight-asian="bold" style:font-size-complex="18pt" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="T26" style:family="text">
-   <style:text-properties style:font-name="DejaVu Sans" fo:font-size="15pt" fo:font-weight="bold" style:font-size-asian="15pt" style:font-weight-asian="bold" style:font-size-complex="15pt" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="T27" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#1d2129" style:font-name="DejaVu Sans" fo:font-size="12pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal"/>
-  </style:style>
-  <style:style style:name="T28" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#1d2129" style:font-name="DejaVu Sans" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="normal" fo:font-weight="normal" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
-  </style:style>
-  <style:style style:name="T29" style:family="text">
    <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T30" style:family="text">
+  <style:style style:name="T4" style:family="text">
    <style:text-properties fo:font-weight="bold" fo:background-color="#ffff00" loext:char-shading-value="0" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties style:text-position="super 58%" fo:font-size="14pt" fo:font-style="italic" fo:font-weight="bold" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties fo:font-size="16pt" fo:font-weight="bold" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
+   <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="16pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="16pt" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="16pt" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T9" style:family="text">
+   <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="32pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="32pt" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="32pt" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="18pt" fo:language="en" fo:country="US" fo:font-style="italic" fo:font-weight="bold" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="18pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="18pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T11" style:family="text">
+   <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="18pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="18pt" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="18pt" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="bold" fo:background-color="#ffff00" loext:char-shading-value="0" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T14" style:family="text">
+   <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="normal" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="normal" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T15" style:family="text">
+   <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" fo:font-weight="normal" fo:background-color="#ffff00" loext:char-shading-value="0" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="normal" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T16" style:family="text">
+   <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:style>
+  <style:style style:name="T17" style:family="text">
+   <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" fo:background-color="#ffff00" loext:char-shading-value="0" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:style>
+  <style:style style:name="T18" style:family="text">
+   <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:text-underline-style="none" fo:font-weight="bold" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T19" style:family="text">
+   <style:text-properties fo:color="#00000a" style:font-name="Liberation Serif" fo:font-size="14pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="14pt" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="14pt" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T20" style:family="text">
+   <style:text-properties fo:color="#00000a" style:font-name="DejaVu Sans" fo:font-size="15pt" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="15pt" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="15pt" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T21" style:family="text">
+   <style:text-properties fo:font-size="26pt" fo:font-weight="bold" style:font-size-asian="26pt" style:font-weight-asian="bold" style:font-size-complex="26pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T22" style:family="text">
+   <style:text-properties fo:font-size="32pt" fo:font-weight="bold" style:font-size-asian="32pt" style:font-weight-asian="bold" style:font-size-complex="32pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T23" style:family="text">
+   <style:text-properties fo:font-size="14pt" fo:font-style="italic" fo:font-weight="bold" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T24" style:family="text">
+   <style:text-properties fo:font-size="14pt" fo:font-weight="bold" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T25" style:family="text">
+   <style:text-properties fo:font-size="14pt" fo:font-weight="bold" fo:background-color="#ffff00" loext:char-shading-value="0" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T26" style:family="text">
+   <style:text-properties fo:font-size="18pt" fo:font-style="italic" fo:font-weight="bold" style:font-size-asian="18pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="18pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T27" style:family="text">
+   <style:text-properties fo:font-size="18pt" fo:font-weight="bold" style:font-size-asian="18pt" style:font-weight-asian="bold" style:font-size-complex="18pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T28" style:family="text">
+   <style:text-properties style:font-name="DejaVu Sans" fo:font-size="15pt" fo:font-weight="bold" style:font-size-asian="15pt" style:font-weight-asian="bold" style:font-size-complex="15pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T29" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#1d2129" style:font-name="DejaVu Sans" fo:font-size="12pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal"/>
+  </style:style>
+  <style:style style:name="T30" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#1d2129" style:font-name="DejaVu Sans" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="en" fo:country="US" fo:font-style="normal" fo:font-weight="normal" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
   </style:style>
   <style:style style:name="T31" style:family="text">
    <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
@@ -1933,6 +2004,41 @@
   <style:style style:name="T36" style:family="text">
    <style:text-properties fo:background-color="#ffff00" loext:char-shading-value="0"/>
   </style:style>
+  <style:style style:name="T37" style:family="text">
+   <style:text-properties officeooo:rsid="0005b860"/>
+  </style:style>
+  <text:list-style style:name="L1">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="0.7854in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.2764in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="1.7673in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.2583in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="2.7492in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.2402in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="3.7315in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="4.2224in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" style:num-suffix="." text:bullet-char="•">
+    <style:list-level-properties text:space-before="4.7134in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.8256in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="49" style:layout-grid-base-height="0.1665in" style:layout-grid-ruby-height="0in" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:layout-grid-base-width="0.1457in" style:layout-grid-snap-to="true" style:footnote-max-height="0in">
     <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="0%" style:color="#000000"/>
@@ -1950,7 +2056,8 @@
    <style:header>
     <text:p text:style-name="Header"><text:tab/><text:span text:style-name="T1">CISC 3140 Spring 2017 College Invaders Project SRS</text:span></text:p>
     <text:p text:style-name="Header"/>
-    <text:p text:style-name="P1">Group 1<text:tab/><text:tab/>Specifications As Of: March 13<text:span text:style-name="T2">th </text:span>2017</text:p>
+    <text:p text:style-name="P1">Group 1 <text:span text:style-name="T2"><text:s/>$HeadURL: $ $Id: $</text:span><text:tab/><text:tab/><text:span text:style-name="T2">$Date: $ $Revision: $ $Author: $</text:span></text:p>
+    <text:p text:style-name="P1"/>
    </style:header>
    <style:footer>
     <text:p text:style-name="Footer"><text:tab/><text:tab/> <text:page-number text:select-page="current">11</text:page-number> of <text:page-count>11</text:page-count></text:p>
@@ -1966,17 +2073,17 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
    </text:sequence-decls>
-   <text:p text:style-name="P25"/>
-   <text:p text:style-name="P17"><text:span text:style-name="T3">Brooklyn College Spring 2017</text:span></text:p>
-   <text:p text:style-name="P17"><text:span text:style-name="T3"><text:s/>Software Design &amp; Implementation 2</text:span></text:p>
-   <text:p text:style-name="P17"><text:span text:style-name="T17">Group 1 Class Project</text:span><text:span text:style-name="T18"> </text:span></text:p>
-   <text:p text:style-name="P13"/>
-   <text:p text:style-name="P17"><text:span text:style-name="T18">“College Invaders” Specification</text:span></text:p>
-   <text:p text:style-name="P17"><text:span text:style-name="T19">2</text:span><text:span text:style-name="T23">nd</text:span><text:span text:style-name="T19"> Edition</text:span></text:p>
-   <text:p text:style-name="P14"/>
-   <text:p text:style-name="P14"/>
-   <text:p text:style-name="P14"/>
-   <text:p text:style-name="P17"><text:span text:style-name="T24">Group Roster</text:span></text:p>
+   <text:p text:style-name="P24"/>
+   <text:p text:style-name="P25">Brooklyn College Spring 2017</text:p>
+   <text:p text:style-name="P25"><text:s/>Software Design &amp; Implementation 2</text:p>
+   <text:p text:style-name="P16"><text:span text:style-name="T21">Group 1 Class Project</text:span><text:span text:style-name="T22"> </text:span></text:p>
+   <text:p text:style-name="P11"/>
+   <text:p text:style-name="P26">“College Invaders” Specification</text:p>
+   <text:p text:style-name="P16"><text:span text:style-name="T23">2</text:span><text:span text:style-name="T6">nd</text:span><text:span text:style-name="T23"> Edition</text:span></text:p>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P27">Group Roster</text:p>
    <table:table table:name="Table1" table:style-name="Table1">
     <table:table-column table:style-name="Table1.A"/>
     <table:table-column table:style-name="Table1.B"/>
@@ -1984,409 +2091,409 @@
     <table:table-column table:style-name="Table1.D"/>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P26"><text:span text:style-name="T26">Specifications</text:span></text:p>
+      <text:p text:style-name="P46">Specifications</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P26"><text:span text:style-name="T26">Q.A.</text:span></text:p>
+      <text:p text:style-name="P46">Q.A.</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P26"><text:span text:style-name="T26">Graphics</text:span></text:p>
+      <text:p text:style-name="P46">Graphics</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P26"><text:span text:style-name="T26">Backbone</text:span></text:p>
+      <text:p text:style-name="P46">Backbone</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A2" office:value-type="string">
-      <text:p text:style-name="P27"><text:span text:style-name="T27">Ira Bletz-Fuller</text:span></text:p>
+      <text:p text:style-name="P47">Ira Bletz-Fuller</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A2" office:value-type="string">
-      <text:p text:style-name="P27"><text:span text:style-name="T27">Christian Butron</text:span></text:p>
+      <text:p text:style-name="P47">Christian Butron</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A2" office:value-type="string">
-      <text:p text:style-name="P27"><text:span text:style-name="T27">Aniss Fadel</text:span></text:p>
+      <text:p text:style-name="P47">Aniss Fadel</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A2" office:value-type="string">
-      <text:p text:style-name="P27"><text:span text:style-name="T27">Maxavier Jeanphilippe</text:span></text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="Table1.1">
-     <table:table-cell table:style-name="Table1.A2" office:value-type="string">
-      <text:p text:style-name="P27"><text:span text:style-name="T27">Ricles Vigni</text:span></text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A2" office:value-type="string">
-      <text:p text:style-name="P27"><text:span text:style-name="T27">Zainab Dandia</text:span></text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A2" office:value-type="string">
-      <text:p text:style-name="P27"><text:span text:style-name="T27">Marc Pfeiffer</text:span></text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A2" office:value-type="string">
-      <text:p text:style-name="P27"><text:span text:style-name="T27">Noam Swisa</text:span></text:p>
+      <text:p text:style-name="P47">Maxavier Jeanphilippe</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A2" office:value-type="string">
-      <text:p text:style-name="P27"><text:span text:style-name="T27">Nishat Anjum</text:span></text:p>
+      <text:p text:style-name="P47">Ricles Vigni</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A2" office:value-type="string">
-      <text:p text:style-name="P27"><text:span text:style-name="T27">Edward Heifetz</text:span></text:p>
+      <text:p text:style-name="P47">Zainab Dandia</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A2" office:value-type="string">
-      <text:p text:style-name="P27"><text:span text:style-name="T27">Jeremy Elmani</text:span></text:p>
+      <text:p text:style-name="P47">Marc Pfeiffer</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A2" office:value-type="string">
-      <text:p text:style-name="P27"><text:span text:style-name="T27">Wen Huang</text:span></text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="Table1.1">
-     <table:table-cell table:style-name="Table1.A2" office:value-type="string">
-      <text:p text:style-name="P27"><text:span text:style-name="T27">Andrew Castillo</text:span></text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A2" office:value-type="string">
-      <text:p text:style-name="P27"><text:span text:style-name="T27">Oscar Su</text:span></text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A2" office:value-type="string">
-      <text:p text:style-name="P27"><text:span text:style-name="T27">Maogeng Lin</text:span></text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A2" office:value-type="string">
-      <text:p text:style-name="P27"><text:span text:style-name="T27">Janhua Lui</text:span></text:p>
+      <text:p text:style-name="P47">Noam Swisa</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A2" office:value-type="string">
-      <text:p text:style-name="P27"><text:span text:style-name="T27">Al-John Sakasamo</text:span></text:p>
+      <text:p text:style-name="P47">Nishat Anjum</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A2" office:value-type="string">
-      <text:p text:style-name="P28"/>
+      <text:p text:style-name="P47">Edward Heifetz</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A2" office:value-type="string">
-      <text:p text:style-name="P27"><text:span text:style-name="T27">Randy Cisneros</text:span></text:p>
+      <text:p text:style-name="P47">Jeremy Elmani</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A2" office:value-type="string">
-      <text:p text:style-name="P27"><text:span text:style-name="T27">Shayan Jafri</text:span></text:p>
+      <text:p text:style-name="P47">Wen Huang</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A2" office:value-type="string">
-      <text:p text:style-name="P27"><text:span text:style-name="T27">Nathan Antebi</text:span></text:p>
+      <text:p text:style-name="P47">Andrew Castillo</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A2" office:value-type="string">
-      <text:p text:style-name="P28"/>
+      <text:p text:style-name="P47">Oscar Su</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A2" office:value-type="string">
-      <text:p text:style-name="P27"><text:span text:style-name="T27">Denis Barabanov</text:span></text:p>
+      <text:p text:style-name="P47">Maogeng Lin</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A2" office:value-type="string">
-      <text:p text:style-name="P28"/>
+      <text:p text:style-name="P47">Janhua Lui</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table1.1">
+     <table:table-cell table:style-name="Table1.A2" office:value-type="string">
+      <text:p text:style-name="P47">Al-John Sakasamo</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A2" office:value-type="string">
+      <text:p text:style-name="P23"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A2" office:value-type="string">
+      <text:p text:style-name="P47">Randy Cisneros</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A2" office:value-type="string">
+      <text:p text:style-name="P47">Shayan Jafri</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table1.1">
+     <table:table-cell table:style-name="Table1.A2" office:value-type="string">
+      <text:p text:style-name="P47">Nathan Antebi</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A2" office:value-type="string">
+      <text:p text:style-name="P23"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A2" office:value-type="string">
+      <text:p text:style-name="P47">Denis Barabanov</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A2" office:value-type="string">
+      <text:p text:style-name="P23"/>
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P19"/>
-   <text:p text:style-name="P16"/>
-   <text:p text:style-name="P17"><text:span text:style-name="T25">2017-03-13</text:span></text:p>
-   <text:p text:style-name="P4"><text:soft-page-break/></text:p>
-   <text:p text:style-name="P4"/>
-   <text:p text:style-name="P23"><text:span text:style-name="T1">Table of Contents</text:span></text:p>
-   <text:list xml:id="list4740488838690504105" text:style-name="WWNum1">
-    <text:list-item>
-     <text:p text:style-name="P18"><text:span text:style-name="T31">Introduction……….……….……….……….……….……….……….………. 3</text:span></text:p>
-     <text:list>
-      <text:list-item>
-       <text:p text:style-name="P18"><text:span text:style-name="T31">Purpose</text:span></text:p>
-      </text:list-item>
-      <text:list-item>
-       <text:p text:style-name="P18"><text:span text:style-name="T31">Scope</text:span></text:p>
-      </text:list-item>
-      <text:list-item>
-       <text:p text:style-name="P18"><text:span text:style-name="T31">References</text:span></text:p>
-      </text:list-item>
-      <text:list-item>
-       <text:p text:style-name="P18"><text:span text:style-name="T31">Overview</text:span></text:p>
-      </text:list-item>
-      <text:list-item>
-       <text:p text:style-name="P18"><text:span text:style-name="T31">Overall description……….……….……….……….……….…………………..4</text:span></text:p>
-      </text:list-item>
-     </text:list>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P18"><text:span text:style-name="T31">Product perspective</text:span></text:p>
-     <text:list>
-      <text:list-item>
-       <text:p text:style-name="P18"><text:span text:style-name="T31">Product functions</text:span></text:p>
-      </text:list-item>
-      <text:list-item>
-       <text:p text:style-name="P18"><text:span text:style-name="T31">User characteristics</text:span></text:p>
-      </text:list-item>
-      <text:list-item>
-       <text:p text:style-name="P18"><text:span text:style-name="T31">Constraints</text:span></text:p>
-      </text:list-item>
-      <text:list-item>
-       <text:p text:style-name="P18"><text:span text:style-name="T31">Assumptions and dependencies</text:span></text:p>
-      </text:list-item>
-     </text:list>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P18"><text:span text:style-name="T31">Specific requirements……….……….……….……….……….……….……….5</text:span></text:p>
-     <text:list>
-      <text:list-item>
-       <text:p text:style-name="P18"><text:span text:style-name="T31">External interface requirements</text:span></text:p>
-      </text:list-item>
-      <text:list-item>
-       <text:p text:style-name="P18"><text:span text:style-name="T31">System features</text:span></text:p>
-      </text:list-item>
-      <text:list-item>
-       <text:p text:style-name="P18"><text:span text:style-name="T31">Performance requirements</text:span></text:p>
-      </text:list-item>
-      <text:list-item>
-       <text:p text:style-name="P18"><text:span text:style-name="T31">Design constraints</text:span></text:p>
-      </text:list-item>
-      <text:list-item>
-       <text:p text:style-name="P18"><text:span text:style-name="T31">Software system attributes</text:span></text:p>
-      </text:list-item>
-      <text:list-item>
-       <text:p text:style-name="P18"><text:span text:style-name="T31">Other requirements</text:span></text:p>
-      </text:list-item>
-     </text:list>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P24"><text:span text:style-name="T31">Index……….……….……….……….……….……….……….……….……….10</text:span></text:p>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard"/>
-   <text:list xml:id="list2742075691699967104" text:style-name="WWNum4">
-    <text:list-item>
-     <text:p text:style-name="P20"><text:soft-page-break/><text:span text:style-name="T20">Introduction</text:span></text:p>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P2"/>
-   <text:list xml:id="list23100756413353" text:continue-numbering="true" text:style-name="WWNum4">
-    <text:list-item>
-     <text:list>
-      <text:list-item>
-       <text:p text:style-name="P20"><text:span text:style-name="T1">Purpose</text:span></text:p>
-       <text:list>
-        <text:list-item>
-         <text:list>
-          <text:list-item>
-           <text:p text:style-name="P20">The purpose of this SRS is to provide a comprehensive and exhaustive description of the software being developed by Group 1 of CISC 3140-ET6, laying out both the functional and the non-functional (dependent) requirements.</text:p>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P20">This SRS is intended to be a guideline for the entire group while developing the project for what to expect the end product to be. This SRS will be use by each team in the following ways</text:p>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P20">Specs will be developing this document and making sure that the entire scope of the project is laid out and a framework is put in place for all other teams to follow.</text:p>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P20">Backbone will use this as a guide for coding the game, developing classes based on the requirements laid out here.</text:p>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P20">Graphics will use this as a checklist for creating the visual and audio assets necessary for the game.</text:p>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P20">QA will be able to test the software against this SRS, making sure that development of the game is going according to plan, and also to identify conflicts in design vs. implementation of features, so that they can be resolved.</text:p>
-          </text:list-item>
-         </text:list>
-        </text:list-item>
-       </text:list>
-      </text:list-item>
-     </text:list>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P2"/>
-   <text:list xml:id="list23102126629298" text:continue-numbering="true" text:style-name="WWNum4">
-    <text:list-item>
-     <text:list>
-      <text:list-item>
-       <text:p text:style-name="P20"><text:span text:style-name="T33">Scope</text:span></text:p>
-       <text:list>
-        <text:list-item>
-         <text:list>
-          <text:list-item>
-           <text:p text:style-name="P20">The software being produced is “College Invaders”, A Space Invaders style game with a Brooklyn College “students vs. administration” theme.</text:p>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P20">The software will be runnable on any reasonably recent computer with Java 7</text:p>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P20">The software will allow the user to play our game, attempting to attain high scores, which will be saved to a list with initials, arcade-style, and will be viewable via an in game scoreboard.</text:p>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P20">The software will not require any network connectivity, running locally on the user’s machine.</text:p>
-          </text:list-item>
-         </text:list>
-        </text:list-item>
-       </text:list>
-      </text:list-item>
-     </text:list>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P2"/>
-   <text:list xml:id="list23102049808528" text:continue-numbering="true" text:style-name="WWNum4">
-    <text:list-item>
-     <text:list>
-      <text:list-item>
-       <text:p text:style-name="P20"><text:span text:style-name="T33">Definintions, Acronymns, and Abbreviations</text:span></text:p>
-      </text:list-item>
-     </text:list>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P5"/>
-   <text:list xml:id="list23101540788368" text:continue-numbering="true" text:style-name="WWNum4">
-    <text:list-item>
-     <text:list>
-      <text:list-item>
-       <text:list>
-        <text:list-item>
-         <text:list>
-          <text:list-item>
-           <text:p text:style-name="P20">Software/Game/Program/Project</text:p>
-           <text:list>
-            <text:list-item>
-             <text:p text:style-name="P20">Synonymous. The software being described in this document</text:p>
-            </text:list-item>
-           </text:list>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P20">JRE SE</text:p>
-           <text:list>
-            <text:list-item>
-             <text:p text:style-name="P20">Java Runtime Environment Standard Edition. The software environment used for developing and running the software</text:p>
-            </text:list-item>
-           </text:list>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P20">JVM</text:p>
-           <text:list>
-            <text:list-item>
-             <text:p text:style-name="P20">Java Virtual Machine. The virtual computing machine tailored for different systems that allows the same java code to run identically across platforms</text:p>
-            </text:list-item>
-           </text:list>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P20">SRS</text:p>
-           <text:list>
-            <text:list-item>
-             <text:p text:style-name="P20"><text:soft-page-break/>Software Requirement Specification. A description of the software system being developed. This document.</text:p>
-            </text:list-item>
-           </text:list>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P20">TBD</text:p>
-           <text:list>
-            <text:list-item>
-             <text:p text:style-name="P20">To Be Determined. Since this document is being written concurrently with the development of the software it specifies, many entries will be TBD until they are fully described by the team.</text:p>
-            </text:list-item>
-           </text:list>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P20">STCH</text:p>
-           <text:list>
-            <text:list-item>
-             <text:p text:style-name="P20">Subject to Change. Test or placeholder features may be implemented and be subject to change at a future date when designs are more fully realized.</text:p>
-            </text:list-item>
-           </text:list>
-          </text:list-item>
-         </text:list>
-        </text:list-item>
-       </text:list>
-      </text:list-item>
-     </text:list>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P2"/>
-   <text:list xml:id="list23102312702206" text:continue-numbering="true" text:style-name="WWNum4">
-    <text:list-item>
-     <text:list>
-      <text:list-item>
-       <text:p text:style-name="P20"><text:span text:style-name="T33">References</text:span></text:p>
-       <text:list>
-        <text:list-item>
-         <text:list>
-          <text:list-item>
-           <text:p text:style-name="P20"><text:span text:style-name="T31">Documents and other material referenced in the creation of this SRS:</text:span> </text:p>
-           <text:list>
-            <text:list-item>
-             <text:p text:style-name="P20">IEEE Std 830-1998 - IEEE Recommended Practice for Software Requirements Specifications. Approved 25 June 1998 IEEE-SA Standards Board. Available at <text:span text:style-name="Internet_20_link">https://standards.ieee.org/findstds/standard/830-1998.html</text:span></text:p>
-            </text:list-item>
-            <text:list-item>
-             <text:p text:style-name="P20">Example of classic space invaders gameplay in flash, published by phatcatmedia.net. Available at <text:span text:style-name="Internet_20_link">http://www.pacxon4u.com/space-invaders/</text:span></text:p>
-            </text:list-item>
-            <text:list-item>
-             <text:p text:style-name="P20">Wikipedia article on Space Invaders, originally published June, 2004 by Wikipedia. Available at <text:span text:style-name="Internet_20_link">https://en.wikipedia.org/wiki/Space_Invaders</text:span></text:p>
-            </text:list-item>
-            <text:list-item>
-             <text:p text:style-name="P20">Java Language Specification, Java SE 7 Edition, final release published by Oracle Corporation July 2011. Available at <text:s/><text:a xlink:type="simple" xlink:href="http://docs.oracle.com/javase/specs/index.html" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">http://docs.oracle.com/javase/specs/index.html</text:span></text:a></text:p>
-            </text:list-item>
-           </text:list>
-          </text:list-item>
-         </text:list>
-        </text:list-item>
-       </text:list>
-      </text:list-item>
-     </text:list>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard"/>
-   <text:list xml:id="list23100480109364" text:continue-numbering="true" text:style-name="WWNum4">
-    <text:list-item>
-     <text:list>
-      <text:list-item>
-       <text:p text:style-name="P20"><text:span text:style-name="T1">Overview</text:span></text:p>
-       <text:list>
-        <text:list-item>
-         <text:list>
-          <text:list-item>
-           <text:p text:style-name="P20">The remaining two sections of this SRS Cover the overall <text:s/>description and the specific technical requirements of the software.</text:p>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P20">Section 2 broadly encompasses all the details of this software’s interface with the user, as well as other software and hardware systems. A summary of features and functionality is included, as well as a profile of the typical user. <text:s/>Finally, project constraints and hardware/software dependencies are addressed. </text:p>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P20">Section 3 explains the technical specification of the software. This section lists all requirements for the software’s inputs and outputs to a level of detail sufficient for developers to write code needed to execute these specifications, and for testers to verify their correct functionality. This section is exhaustive and explicit so that developers, designers, and users may be able to perceive the requirements unambiguously</text:p>
-          </text:list-item>
-         </text:list>
-        </text:list-item>
-       </text:list>
-      </text:list-item>
-     </text:list>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="Standard"/>
-   <text:list xml:id="list23101585090532" text:continue-numbering="true" text:style-name="WWNum4">
-    <text:list-item>
-     <text:p text:style-name="P20"><text:span text:style-name="T20">Overall description</text:span></text:p>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P15"/>
-   <text:list xml:id="list23101693498747" text:continue-numbering="true" text:style-name="WWNum4">
-    <text:list-item>
-     <text:list>
-      <text:list-item>
-       <text:p text:style-name="P20"><text:span text:style-name="T1">Product perspective</text:span></text:p>
-      </text:list-item>
-     </text:list>
-    </text:list-item>
-   </text:list>
+   <text:p text:style-name="P17"/>
+   <text:p text:style-name="P14"/>
+   <text:p text:style-name="P28">2017-03-<text:span text:style-name="T2">28</text:span></text:p>
    <text:p text:style-name="P5"><text:soft-page-break/></text:p>
-   <text:list xml:id="list23101695997520" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P43">Table of Contents</text:p>
+   <text:list xml:id="list6014747137689134562" text:style-name="WWNum1">
+    <text:list-item>
+     <text:p text:style-name="P29">Introduction……….……….……….……….……….……….……….………. 3</text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P29">Purpose</text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P29">Scope</text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P29">References</text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P29">Overview</text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P29">Overall description……….……….……….……….……….…...……..4</text:p>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P29">Product perspective</text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P29">Product functions</text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P29">User characteristics</text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P29">Constraints</text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P29">Assumptions and dependencies</text:p>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P29">Specific requirements……….……….……….……….……….……….……….5</text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P29">External interface requirements</text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P29">System features</text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P29">Performance requirements</text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P29">Design constraints</text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P29">Software system attributes</text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P29">Other requirements</text:p>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P44">Index……….……….……….……….……….……….……….……….……….10</text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"/>
+   <text:list xml:id="list8994807940767934909" text:style-name="WWNum4">
+    <text:list-item>
+     <text:p text:style-name="P33"><text:soft-page-break/>Introduction</text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P3"/>
+   <text:list xml:id="list25013729174477" text:continue-numbering="true" text:style-name="WWNum4">
+    <text:list-item>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P35">Purpose</text:p>
+       <text:list>
+        <text:list-item>
+         <text:list>
+          <text:list-item>
+           <text:p text:style-name="P32">The purpose of this SRS is to provide a comprehensive and exhaustive description of the software being developed by Group 1 of CISC 3140-ET6, laying out both the functional and the non-functional (dependent) requirements.</text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P32">This SRS is intended to be a guideline for the entire group while developing the project for what to expect the end product to be. This SRS will be use by each team in the following ways</text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P32">Specs will be developing this document and making sure that the entire scope of the project is laid out and a framework is put in place for all other teams to follow.</text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P32">Backbone will use this as a guide for coding the game, developing classes based on the requirements laid out here.</text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P32">Graphics will use this as a checklist for creating the visual and audio assets necessary for the game.</text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P32">QA will be able to test the software against this SRS, making sure that development of the game is going according to plan, and also to identify conflicts in design vs. implementation of features, so that they can be resolved.</text:p>
+          </text:list-item>
+         </text:list>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P3"/>
+   <text:list xml:id="list25013954558886" text:continue-numbering="true" text:style-name="WWNum4">
+    <text:list-item>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P37">Scope</text:p>
+       <text:list>
+        <text:list-item>
+         <text:list>
+          <text:list-item>
+           <text:p text:style-name="P32">The software being produced is “College Invaders”, A Space Invaders style game with a Brooklyn College “students vs. administration” theme.</text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P32">The software will be runnable on any reasonably recent computer with Java 7</text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P32">The software will allow the user to play our game, attempting to attain high scores, which will be saved to a list with initials, arcade-style, and will be viewable via an in game scoreboard.</text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P32">The software will not require any network connectivity, running locally on the user’s machine.</text:p>
+          </text:list-item>
+         </text:list>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P3"/>
+   <text:list xml:id="list25012488516118" text:continue-numbering="true" text:style-name="WWNum4">
+    <text:list-item>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P37">Definintions, Acronymns, and Abbreviations</text:p>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P4"/>
+   <text:list xml:id="list25013142353165" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P20">System Interfaces</text:p>
          <text:list>
           <text:list-item>
-           <text:p text:style-name="P20"><text:span text:style-name="T35">TBD list all system interfaces (how software will be able to function on system)</text:span></text:p>
+           <text:p text:style-name="P42">Software/Game/Program/Project</text:p>
+           <text:list>
+            <text:list-item>
+             <text:p text:style-name="P42">Synonymous. The software being described in this document</text:p>
+            </text:list-item>
+           </text:list>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P42">JRE SE</text:p>
+           <text:list>
+            <text:list-item>
+             <text:p text:style-name="P42">Java Runtime Environment Standard Edition. The software environment used for developing and running the software</text:p>
+            </text:list-item>
+           </text:list>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P42">JVM</text:p>
+           <text:list>
+            <text:list-item>
+             <text:p text:style-name="P42">Java Virtual Machine. The virtual computing machine tailored for different systems that allows the same java code to run identically across platforms</text:p>
+            </text:list-item>
+           </text:list>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P42">SRS</text:p>
+           <text:list>
+            <text:list-item>
+             <text:p text:style-name="P42"><text:soft-page-break/>Software Requirement Specification. A description of the software system being developed. This document.</text:p>
+            </text:list-item>
+           </text:list>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P42">TBD</text:p>
+           <text:list>
+            <text:list-item>
+             <text:p text:style-name="P42">To Be Determined. Since this document is being written concurrently with the development of the software it specifies, many entries will be TBD until they are fully described by the team.</text:p>
+            </text:list-item>
+           </text:list>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P42">STCH</text:p>
+           <text:list>
+            <text:list-item>
+             <text:p text:style-name="P42">Subject to Change. Test or placeholder features may be implemented and be subject to change at a future date when designs are more fully realized.</text:p>
+            </text:list-item>
+           </text:list>
+          </text:list-item>
+         </text:list>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P3"/>
+   <text:list xml:id="list25014382010297" text:continue-numbering="true" text:style-name="WWNum4">
+    <text:list-item>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P37">References</text:p>
+       <text:list>
+        <text:list-item>
+         <text:list>
+          <text:list-item>
+           <text:p text:style-name="P32"><text:span text:style-name="T31">Documents and other material referenced in the creation of this SRS:</text:span> </text:p>
+           <text:list>
+            <text:list-item>
+             <text:p text:style-name="P32">IEEE Std 830-1998 - IEEE Recommended Practice for Software Requirements Specifications. Approved 25 June 1998 IEEE-SA Standards Board. Available at <text:span text:style-name="Internet_20_link">https://standards.ieee.org/findstds/standard/830-1998.html</text:span></text:p>
+            </text:list-item>
+            <text:list-item>
+             <text:p text:style-name="P32">Example of classic space invaders gameplay in flash, published by phatcatmedia.net. Available at <text:span text:style-name="Internet_20_link">http://www.pacxon4u.com/space-invaders/</text:span></text:p>
+            </text:list-item>
+            <text:list-item>
+             <text:p text:style-name="P32">Wikipedia article on Space Invaders, originally published June, 2004 by Wikipedia. Available at <text:span text:style-name="Internet_20_link">https://en.wikipedia.org/wiki/Space_Invaders</text:span></text:p>
+            </text:list-item>
+            <text:list-item>
+             <text:p text:style-name="P32">Java Language Specification, Java SE 7 Edition, final release published by Oracle Corporation July 2011. Available at <text:s/><text:a xlink:type="simple" xlink:href="http://docs.oracle.com/javase/specs/index.html" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">http://docs.oracle.com/javase/specs/index.html</text:span></text:a></text:p>
+            </text:list-item>
+           </text:list>
+          </text:list-item>
+         </text:list>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"/>
+   <text:list xml:id="list25013908623208" text:continue-numbering="true" text:style-name="WWNum4">
+    <text:list-item>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P35">Overview</text:p>
+       <text:list>
+        <text:list-item>
+         <text:list>
+          <text:list-item>
+           <text:p text:style-name="P32">The remaining two sections of this SRS Cover the overall <text:s/>description and the specific technical requirements of the software.</text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P32">Section 2 broadly encompasses all the details of this software’s interface with the user, as well as other software and hardware systems. A summary of features and functionality is included, as well as a profile of the typical user. <text:s/>Finally, project constraints and hardware/software dependencies are addressed. </text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P32">Section 3 explains the technical specification of the software. This section lists all requirements for the software’s inputs and outputs to a level of detail sufficient for developers to write code needed to execute these specifications, and for testers to verify their correct functionality. This section is exhaustive and explicit so that developers, designers, and users may be able to perceive the requirements unambiguously</text:p>
+          </text:list-item>
+         </text:list>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="Standard"/>
+   <text:list xml:id="list25014044552256" text:continue-numbering="true" text:style-name="WWNum4">
+    <text:list-item>
+     <text:p text:style-name="P33">Overall description</text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P13"/>
+   <text:list xml:id="list25013762440168" text:continue-numbering="true" text:style-name="WWNum4">
+    <text:list-item>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P35">Product perspective</text:p>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P4"><text:soft-page-break/></text:p>
+   <text:list xml:id="list25014509700548" text:continue-numbering="true" text:style-name="WWNum4">
+    <text:list-item>
+     <text:list>
+      <text:list-item>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P32">System Interfaces</text:p>
+         <text:list>
+          <text:list-item>
+           <text:p text:style-name="P39">TBD list all system interfaces (how software will be able to function on system)</text:p>
           </text:list-item>
          </text:list>
         </text:list-item>
@@ -2396,236 +2503,18 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P6"/>
-   <text:list xml:id="list23100468118960" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list25012870164080" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P20">User Interfaces</text:p>
+         <text:p text:style-name="P32">User Interfaces</text:p>
          <text:list>
           <text:list-item>
-           <text:p text:style-name="P20">The user will interface with the game through the normal input devices (keyboard, mouse), and will receive visual and audio feedback from the monitor and speaker</text:p>
+           <text:p text:style-name="P32">The user will interface with the game through the normal input devices (keyboard, mouse), and will receive visual and audio feedback from the monitor and speaker</text:p>
           </text:list-item>
          </text:list>
-        </text:list-item>
-       </text:list>
-      </text:list-item>
-     </text:list>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P2"/>
-   <text:list xml:id="list23100871954239" text:continue-numbering="true" text:style-name="WWNum4">
-    <text:list-item>
-     <text:list>
-      <text:list-item>
-       <text:list>
-        <text:list-item>
-         <text:p text:style-name="P20">Hardware interfaces</text:p>
-         <text:list>
-          <text:list-item>
-           <text:p text:style-name="P20">As a stand alone, self contained game, this software has minimal hardware interface requirements. </text:p>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P20">The software will run on any computer capable of running the JVM with JRE SE 7</text:p>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P20">Java Standard Edition Runtime Environment 7</text:p>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P20">(JRE) 7</text:p>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P20">JSR-000901 Java Language Specification</text:p>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P20">Version 7</text:p>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P20">https://docs.oracle.com/javase/specs/</text:p>
-          </text:list-item>
-         </text:list>
-        </text:list-item>
-       </text:list>
-      </text:list-item>
-     </text:list>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P2"/>
-   <text:list xml:id="list23102279355198" text:continue-numbering="true" text:style-name="WWNum4">
-    <text:list-item>
-     <text:list>
-      <text:list-item>
-       <text:list>
-        <text:list-item>
-         <text:p text:style-name="P20">Software Interfaces</text:p>
-         <text:list>
-          <text:list-item>
-           <text:p text:style-name="P20"><text:span text:style-name="T36">TBD list software interfaces</text:span></text:p>
-          </text:list-item>
-         </text:list>
-        </text:list-item>
-       </text:list>
-      </text:list-item>
-     </text:list>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P2"/>
-   <text:list xml:id="list23101962555823" text:continue-numbering="true" text:style-name="WWNum4">
-    <text:list-item>
-     <text:list>
-      <text:list-item>
-       <text:list>
-        <text:list-item>
-         <text:p text:style-name="P20">Communications Interfaces</text:p>
-         <text:list>
-          <text:list-item>
-           <text:p text:style-name="P20">This software is intended to function entirely on a local machine and therefor does not require any network connectivity.</text:p>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P20">Memory</text:p>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P20">Considering the scope of this software project, and the only saved data being a text list of high scores, the memory requirements for this software can be considered negligible.</text:p>
-          </text:list-item>
-         </text:list>
-        </text:list-item>
-       </text:list>
-      </text:list-item>
-     </text:list>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"/>
-   <text:list xml:id="list23100901253116" text:continue-numbering="true" text:style-name="WWNum4">
-    <text:list-item>
-     <text:list>
-      <text:list-item>
-       <text:p text:style-name="P20"><text:span text:style-name="T1">Product Functions</text:span></text:p>
-       <text:list>
-        <text:list-item>
-         <text:list>
-          <text:list-item>
-           <text:p text:style-name="P20">To re-create the classic game of Space Invaders, with as college student vs. administration theme</text:p>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P20">Show the user via in game menu options the object of the game, and how to play</text:p>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P20">Allow the user to adjust the volume via in game menu options</text:p>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P20">To allow the user to start new games, pause and unpause during gameplay, set high scores along with their name, saved to a file that can be viewed on an in-game scoreboard.</text:p>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P20">To allow the user to reset the score list via in game options</text:p>
-          </text:list-item>
-         </text:list>
-        </text:list-item>
-       </text:list>
-      </text:list-item>
-     </text:list>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P2"/>
-   <text:list xml:id="list23100708355630" text:continue-numbering="true" text:style-name="WWNum4">
-    <text:list-item>
-     <text:list>
-      <text:list-item>
-       <text:p text:style-name="P20"><text:span text:style-name="T1">User Characteristics</text:span></text:p>
-       <text:list>
-        <text:list-item>
-         <text:list>
-          <text:list-item>
-           <text:p text:style-name="P20"><text:soft-page-break/>This game is intended for users who possess rudimentary computer and/or video game knowledge and and ability to make use of computer input and output devices.</text:p>
-          </text:list-item>
-         </text:list>
-        </text:list-item>
-       </text:list>
-      </text:list-item>
-     </text:list>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P2"/>
-   <text:list xml:id="list23101849192210" text:continue-numbering="true" text:style-name="WWNum4">
-    <text:list-item>
-     <text:list>
-      <text:list-item>
-       <text:p text:style-name="P20"><text:span text:style-name="T1">Constraints</text:span></text:p>
-       <text:list>
-        <text:list-item>
-         <text:list>
-          <text:list-item>
-           <text:p text:style-name="P20">All code for the game must be written in Java<text:tab/></text:p>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P20">Should run “smoothly” on any machine capable of installing and running Java 7 JVM.</text:p>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P20">Should not consume unnecessary memory (hard drive, RAM). </text:p>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P20">Must be able to read and write to a file for recording and retrieval of high scores</text:p>
-          </text:list-item>
-         </text:list>
-        </text:list-item>
-       </text:list>
-      </text:list-item>
-     </text:list>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="Standard"/>
-   <text:list xml:id="list23101634189530" text:continue-numbering="true" text:style-name="WWNum4">
-    <text:list-item>
-     <text:list>
-      <text:list-item>
-       <text:p text:style-name="P20"><text:span text:style-name="T1">Assumptions And Dependencies</text:span></text:p>
-       <text:list>
-        <text:list-item>
-         <text:list>
-          <text:list-item>
-           <text:p text:style-name="P20">It is assumed that the end user will have access to a computer running at least Java 7 JVM, with a mouse and keyboard for input and a monitor. Additionally the user should have permissions sufficient to save a text file of high scores so they can be maintained across different game sessions.</text:p>
-          </text:list-item>
-         </text:list>
-        </text:list-item>
-       </text:list>
-      </text:list-item>
-     </text:list>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P2"/>
-   <text:list xml:id="list23102047552053" text:continue-numbering="true" text:style-name="WWNum4">
-    <text:list-item>
-     <text:list>
-      <text:list-item>
-       <text:p text:style-name="P20"><text:span text:style-name="T1">Apportioning of requirements</text:span></text:p>
-       <text:list>
-        <text:list-item>
-         <text:list>
-          <text:list-item>
-           <text:p text:style-name="P20"><text:span text:style-name="T32">TBD</text:span></text:p>
-          </text:list-item>
-         </text:list>
-        </text:list-item>
-       </text:list>
-      </text:list-item>
-     </text:list>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P2"/>
-   <text:list xml:id="list23101595685503" text:continue-numbering="true" text:style-name="WWNum4">
-    <text:list-item>
-     <text:p text:style-name="P20"><text:span text:style-name="T20">Specific requirements</text:span></text:p>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="Standard"/>
-   <text:list xml:id="list23102333692787" text:continue-numbering="true" text:style-name="WWNum4">
-    <text:list-item>
-     <text:list>
-      <text:list-item>
-       <text:list>
-        <text:list-item>
-         <text:p text:style-name="P20"><text:span text:style-name="T1">User interfaces</text:span></text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
@@ -2633,7 +2522,225 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P3"/>
-   <text:list xml:id="list23101370886344" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list25012685275033" text:continue-numbering="true" text:style-name="WWNum4">
+    <text:list-item>
+     <text:list>
+      <text:list-item>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P32">Hardware interfaces</text:p>
+         <text:list>
+          <text:list-item>
+           <text:p text:style-name="P32">As a stand alone, self contained game, this software has minimal hardware interface requirements. </text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P32">The software will run on any computer capable of running the JVM with JRE SE 7</text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P32">Java Standard Edition Runtime Environment 7</text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P32">(JRE) 7</text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P32">JSR-000901 Java Language Specification</text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P32">Version 7</text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P32">https://docs.oracle.com/javase/specs/</text:p>
+          </text:list-item>
+         </text:list>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P3"/>
+   <text:list xml:id="list25012854554231" text:continue-numbering="true" text:style-name="WWNum4">
+    <text:list-item>
+     <text:list>
+      <text:list-item>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P32">Software Interfaces</text:p>
+         <text:list>
+          <text:list-item>
+           <text:p text:style-name="P41">TBD list software interfaces</text:p>
+          </text:list-item>
+         </text:list>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P3"/>
+   <text:list xml:id="list25014227751406" text:continue-numbering="true" text:style-name="WWNum4">
+    <text:list-item>
+     <text:list>
+      <text:list-item>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P32">Communications Interfaces</text:p>
+         <text:list>
+          <text:list-item>
+           <text:p text:style-name="P32">This software is intended to function entirely on a local machine and therefor does not require any network connectivity.</text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P32">Memory</text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P32">Considering the scope of this software project, and the only saved data being a text list of high scores, the memory requirements for this software can be considered negligible.</text:p>
+          </text:list-item>
+         </text:list>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"/>
+   <text:list xml:id="list25013470543135" text:continue-numbering="true" text:style-name="WWNum4">
+    <text:list-item>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P35">Product Functions</text:p>
+       <text:list>
+        <text:list-item>
+         <text:list>
+          <text:list-item>
+           <text:p text:style-name="P32">To re-create the classic game of Space Invaders, with as college student vs. administration theme</text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P32">Show the user via in game menu options the object of the game, and how to play</text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P32">Allow the user to adjust the volume via in game menu options</text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P32">To allow the user to start new games, pause and unpause during gameplay, set high scores along with their name, saved to a file that can be viewed on an in-game scoreboard.</text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P32">To allow the user to reset the score list via in game options</text:p>
+          </text:list-item>
+         </text:list>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P3"/>
+   <text:list xml:id="list25014221455787" text:continue-numbering="true" text:style-name="WWNum4">
+    <text:list-item>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P35">User Characteristics</text:p>
+       <text:list>
+        <text:list-item>
+         <text:list>
+          <text:list-item>
+           <text:p text:style-name="P32"><text:soft-page-break/>This game is intended for users who possess rudimentary computer and/or video game knowledge and and ability to make use of computer input and output devices.</text:p>
+          </text:list-item>
+         </text:list>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P3"/>
+   <text:list xml:id="list25013687895935" text:continue-numbering="true" text:style-name="WWNum4">
+    <text:list-item>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P35">Constraints</text:p>
+       <text:list>
+        <text:list-item>
+         <text:list>
+          <text:list-item>
+           <text:p text:style-name="P32">All code for the game must be written in Java<text:tab/></text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P32">Should run “smoothly” on any machine capable of installing and running Java 7 JVM.</text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P32">Should not consume unnecessary memory (hard drive, RAM). </text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P32">Must be able to read and write to a file for recording and retrieval of high scores</text:p>
+          </text:list-item>
+         </text:list>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="Standard"/>
+   <text:list xml:id="list25013020983390" text:continue-numbering="true" text:style-name="WWNum4">
+    <text:list-item>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P35">Assumptions And Dependencies</text:p>
+       <text:list>
+        <text:list-item>
+         <text:list>
+          <text:list-item>
+           <text:p text:style-name="P32">It is assumed that the end user will have access to a computer running at least Java 7 JVM, with a mouse and keyboard for input and a monitor. Additionally the user should have permissions sufficient to save a text file of high scores so they can be maintained across different game sessions.</text:p>
+          </text:list-item>
+         </text:list>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P3"/>
+   <text:list xml:id="list25013342337503" text:continue-numbering="true" text:style-name="WWNum4">
+    <text:list-item>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P35">Apportioning of requirements</text:p>
+       <text:list>
+        <text:list-item>
+         <text:list>
+          <text:list-item>
+           <text:p text:style-name="P31">TBD</text:p>
+          </text:list-item>
+         </text:list>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P3"/>
+   <text:list xml:id="list25013409772013" text:continue-numbering="true" text:style-name="WWNum4">
+    <text:list-item>
+     <text:p text:style-name="P33">Specific requirements</text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="Standard"/>
+   <text:list xml:id="list25012865616997" text:continue-numbering="true" text:style-name="WWNum4">
+    <text:list-item>
+     <text:list>
+      <text:list-item>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P35">User interfaces</text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P4"/>
+   <text:list xml:id="list25012464486418" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -2641,36 +2748,36 @@
         <text:list-item>
          <text:list>
           <text:list-item>
-           <text:p text:style-name="P20">Main Menu</text:p>
+           <text:p text:style-name="P32">Main Menu</text:p>
            <text:list>
             <text:list-item>
-             <text:p text:style-name="P20">start game</text:p>
+             <text:p text:style-name="P32">start game</text:p>
             </text:list-item>
             <text:list-item>
-             <text:p text:style-name="P20">view high scores</text:p>
+             <text:p text:style-name="P32">view high scores</text:p>
             </text:list-item>
             <text:list-item>
-             <text:p text:style-name="P20">options</text:p>
+             <text:p text:style-name="P32">options</text:p>
              <text:list>
               <text:list-item>
-               <text:p text:style-name="P20">instructions</text:p>
+               <text:p text:style-name="P32">instructions</text:p>
               </text:list-item>
               <text:list-item>
-               <text:p text:style-name="P20">controls</text:p>
+               <text:p text:style-name="P32">controls</text:p>
               </text:list-item>
               <text:list-item>
-               <text:p text:style-name="P20">sound</text:p>
+               <text:p text:style-name="P32">sound</text:p>
               </text:list-item>
               <text:list-item>
-               <text:p text:style-name="P20">screen size/resolution</text:p>
+               <text:p text:style-name="P32">screen size/resolution</text:p>
               </text:list-item>
               <text:list-item>
-               <text:p text:style-name="P20">high score reset</text:p>
+               <text:p text:style-name="P32">high score reset</text:p>
               </text:list-item>
              </text:list>
             </text:list-item>
             <text:list-item>
-             <text:p text:style-name="P20">quit</text:p>
+             <text:p text:style-name="P32">quit</text:p>
             </text:list-item>
            </text:list>
           </text:list-item>
@@ -2682,7 +2789,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard"/>
-   <text:list xml:id="list23100837880710" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list25012502205708" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -2690,16 +2797,16 @@
         <text:list-item>
          <text:list>
           <text:list-item>
-           <text:p text:style-name="P20">Pause Menu</text:p>
+           <text:p text:style-name="P32">Pause Menu</text:p>
            <text:list>
             <text:list-item>
-             <text:p text:style-name="P20">continue game</text:p>
+             <text:p text:style-name="P32">continue game</text:p>
             </text:list-item>
             <text:list-item>
-             <text:p text:style-name="P20">options(same as above)</text:p>
+             <text:p text:style-name="P32">options(same as above)</text:p>
             </text:list-item>
             <text:list-item>
-             <text:p text:style-name="P20">quit to main menu</text:p>
+             <text:p text:style-name="P32">quit to main menu</text:p>
             </text:list-item>
            </text:list>
           </text:list-item>
@@ -2711,7 +2818,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard"/>
-   <text:list xml:id="list23102462374463" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list25014366328822" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -2719,13 +2826,13 @@
         <text:list-item>
          <text:list>
           <text:list-item>
-           <text:p text:style-name="P20">Scoreboard</text:p>
+           <text:p text:style-name="P32">Scoreboard</text:p>
            <text:list>
             <text:list-item>
-             <text:p text:style-name="P20">number of scores to track</text:p>
+             <text:p text:style-name="P32">number of scores to track</text:p>
             </text:list-item>
             <text:list-item>
-             <text:p text:style-name="P20"><text:soft-page-break/>length of strings for high score names</text:p>
+             <text:p text:style-name="P32"><text:soft-page-break/>length of strings for high score names</text:p>
             </text:list-item>
            </text:list>
           </text:list-item>
@@ -2737,7 +2844,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard"/>
-   <text:list xml:id="list23102072733031" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list25013650677415" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -2745,28 +2852,28 @@
         <text:list-item>
          <text:list>
           <text:list-item>
-           <text:p text:style-name="P20">Gameplay Screen</text:p>
+           <text:p text:style-name="P32">Gameplay Screen</text:p>
            <text:list>
             <text:list-item>
-             <text:p text:style-name="P20">element layout</text:p>
+             <text:p text:style-name="P32">element layout</text:p>
              <text:list>
               <text:list-item>
-               <text:p text:style-name="P20">lives</text:p>
+               <text:p text:style-name="P32">lives</text:p>
               </text:list-item>
               <text:list-item>
-               <text:p text:style-name="P20">score</text:p>
+               <text:p text:style-name="P32">score</text:p>
               </text:list-item>
               <text:list-item>
-               <text:p text:style-name="P20">enemies</text:p>
+               <text:p text:style-name="P32">enemies</text:p>
               </text:list-item>
               <text:list-item>
-               <text:p text:style-name="P20">special(UFO, boss) enemies</text:p>
+               <text:p text:style-name="P32">special(UFO, boss) enemies</text:p>
               </text:list-item>
               <text:list-item>
-               <text:p text:style-name="P20">barriers</text:p>
+               <text:p text:style-name="P32">barriers</text:p>
               </text:list-item>
               <text:list-item>
-               <text:p text:style-name="P20">player</text:p>
+               <text:p text:style-name="P32">player</text:p>
               </text:list-item>
              </text:list>
             </text:list-item>
@@ -2780,7 +2887,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard"/>
-   <text:list xml:id="list23101905097386" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list25014229849201" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -2788,19 +2895,19 @@
         <text:list-item>
          <text:list>
           <text:list-item>
-           <text:p text:style-name="P20">Game over screen</text:p>
+           <text:p text:style-name="P32">Game over screen</text:p>
            <text:list>
             <text:list-item>
-             <text:p text:style-name="P20">name entry for high score(if score is high enough)</text:p>
+             <text:p text:style-name="P32">name entry for high score(if score is high enough)</text:p>
             </text:list-item>
             <text:list-item>
-             <text:p text:style-name="P20">new game</text:p>
+             <text:p text:style-name="P32">new game</text:p>
             </text:list-item>
             <text:list-item>
-             <text:p text:style-name="P20">view high scores</text:p>
+             <text:p text:style-name="P32">view high scores</text:p>
             </text:list-item>
             <text:list-item>
-             <text:p text:style-name="P20">quit to main menu</text:p>
+             <text:p text:style-name="P32">quit to main menu</text:p>
             </text:list-item>
            </text:list>
           </text:list-item>
@@ -2812,27 +2919,27 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard"/>
-   <text:list xml:id="list23102434511254" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list25013030318432" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P20"><text:span text:style-name="T1">Hardware interfaces</text:span></text:p>
+         <text:p text:style-name="P35">Hardware interfaces</text:p>
          <text:list>
           <text:list-item>
-           <text:p text:style-name="P20">Keyboard input</text:p>
+           <text:p text:style-name="P32">Keyboard input</text:p>
            <text:list>
             <text:list-item>
-             <text:p text:style-name="P20">Input should be based on US QWERTY standard keyboard. </text:p>
+             <text:p text:style-name="P32">Input should be based on US QWERTY standard keyboard. </text:p>
             </text:list-item>
            </text:list>
           </text:list-item>
           <text:list-item>
-           <text:p text:style-name="P20">Mouse input</text:p>
+           <text:p text:style-name="P32">Mouse input</text:p>
            <text:list>
             <text:list-item>
-             <text:p text:style-name="P20">Menus may include input via mouse for ease of use.</text:p>
+             <text:p text:style-name="P32">Menus may include input via mouse for ease of use.</text:p>
             </text:list-item>
            </text:list>
           </text:list-item>
@@ -2844,16 +2951,16 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard"/>
-   <text:list xml:id="list23102252272203" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list25012434984854" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P20"><text:span text:style-name="T1">Software interfaces</text:span></text:p>
+         <text:p text:style-name="P35">Software interfaces</text:p>
          <text:list>
           <text:list-item>
-           <text:p text:style-name="P20">Code should be completed using Standard Java Libraries for which there exists an API. Currently there are no constraints on software components, or data sharing. Simply follow standard Java programming practices.</text:p>
+           <text:p text:style-name="P32">Code should be completed using Standard Java Libraries for which there exists an API. Currently there are no constraints on software components, or data sharing. Simply follow standard Java programming practices.</text:p>
           </text:list-item>
          </text:list>
         </text:list-item>
@@ -2863,16 +2970,16 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard"/>
-   <text:list xml:id="list23101822044720" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list25012674099383" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P20"><text:span text:style-name="T1">Communications interfaces</text:span></text:p>
+         <text:p text:style-name="P35">Communications interfaces</text:p>
          <text:list>
           <text:list-item>
-           <text:p text:style-name="P20">Java JVM</text:p>
+           <text:p text:style-name="P32">Java JVM</text:p>
           </text:list-item>
          </text:list>
         </text:list-item>
@@ -2882,30 +2989,30 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard"/>
-   <text:list xml:id="list23101156601999" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list25012581535886" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P20"><text:span text:style-name="T1">System Features</text:span></text:p>
+       <text:p text:style-name="P35">System Features</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P5"/>
-   <text:list xml:id="list23101763522793" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:p text:style-name="P4"/>
+   <text:list xml:id="list25013032544248" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P20"><text:span text:style-name="T1">Gameplay Mechanics</text:span></text:p>
+         <text:p text:style-name="P35">Gameplay Mechanics</text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list5518868383872480437" text:style-name="WWNum2">
+   <text:list xml:id="list1962751922089440854" text:style-name="WWNum2">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -2913,7 +3020,7 @@
         <text:list-item>
          <text:list>
           <text:list-item>
-           <text:p text:style-name="P21"><text:span text:style-name="T30">TBD</text:span></text:p>
+           <text:p text:style-name="P36">TBD</text:p>
           </text:list-item>
          </text:list>
         </text:list-item>
@@ -2922,7 +3029,7 @@
      </text:list>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list23101270334489" text:continue-list="list23101763522793" text:style-name="WWNum4">
+   <text:list xml:id="list25013744649427" text:continue-list="list25013032544248" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -2930,10 +3037,132 @@
         <text:list-item>
          <text:list>
           <text:list-item>
-           <text:p text:style-name="P20"><text:span text:style-name="T36">This mode is simply the actual game.</text:span></text:p>
+           <text:p text:style-name="P41">This mode is simply the actual game.</text:p>
           </text:list-item>
           <text:list-item>
-           <text:p text:style-name="P20"><text:span text:style-name="T36">Bots/A.I the bots that players will shoot at using the keyboard.</text:span></text:p>
+           <text:p text:style-name="P41">Bots/A.I the bots that players will shoot at using the keyboard.</text:p>
+          </text:list-item>
+         </text:list>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P8"/>
+   <text:list xml:id="list25014540438685" text:continue-numbering="true" text:style-name="WWNum4">
+    <text:list-item>
+     <text:list>
+      <text:list-item>
+       <text:list>
+        <text:list-item>
+         <text:list>
+          <text:list-item>
+           <text:p text:style-name="P30">Controls</text:p>
+           <text:list>
+            <text:list-item>
+             <text:p text:style-name="P30">In menu</text:p>
+             <text:list>
+              <text:list-item>
+               <text:p text:style-name="P30">keyboard selection (up, down, left, right, confirm)</text:p>
+              </text:list-item>
+              <text:list-item>
+               <text:p text:style-name="P30"><text:soft-page-break/>mouse selection</text:p>
+              </text:list-item>
+             </text:list>
+            </text:list-item>
+            <text:list-item>
+             <text:p text:style-name="P30">In game</text:p>
+             <text:list>
+              <text:list-item>
+               <text:p text:style-name="P30">move left</text:p>
+              </text:list-item>
+              <text:list-item>
+               <text:p text:style-name="P30">move right</text:p>
+              </text:list-item>
+              <text:list-item>
+               <text:p text:style-name="P30">shoot</text:p>
+              </text:list-item>
+              <text:list-item>
+               <text:p text:style-name="P30">pause</text:p>
+              </text:list-item>
+             </text:list>
+            </text:list-item>
+           </text:list>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P30">Player</text:p>
+           <text:list>
+            <text:list-item>
+             <text:p text:style-name="P30">player movement</text:p>
+            </text:list-item>
+            <text:list-item>
+             <text:p text:style-name="P30">player projectile type/movement</text:p>
+            </text:list-item>
+            <text:list-item>
+             <text:p text:style-name="P30">player health/lives</text:p>
+            </text:list-item>
+            <text:list-item>
+             <text:p text:style-name="P30">player score</text:p>
+            </text:list-item>
+           </text:list>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P30">Barriers</text:p>
+           <text:list>
+            <text:list-item>
+             <text:p text:style-name="P30">barrier number</text:p>
+            </text:list-item>
+            <text:list-item>
+             <text:p text:style-name="P30">barrier health</text:p>
+            </text:list-item>
+            <text:list-item>
+             <text:p text:style-name="P30">barrier regeneration?</text:p>
+            </text:list-item>
+           </text:list>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P30">Enemies</text:p>
+           <text:list>
+            <text:list-item>
+             <text:p text:style-name="P30">enemy types/number per type (rows &amp; columns)</text:p>
+            </text:list-item>
+            <text:list-item>
+             <text:p text:style-name="P30">enemy movement style</text:p>
+            </text:list-item>
+            <text:list-item>
+             <text:p text:style-name="P30">enemy movement speed changes</text:p>
+            </text:list-item>
+            <text:list-item>
+             <text:p text:style-name="P30">enemy projectile type/movement/speed</text:p>
+            </text:list-item>
+            <text:list-item>
+             <text:p text:style-name="P30">enemy health</text:p>
+            </text:list-item>
+            <text:list-item>
+             <text:p text:style-name="P30">enemy worth(points)</text:p>
+            </text:list-item>
+            <text:list-item>
+             <text:p text:style-name="P30">special enemies(UFO, boss)</text:p>
+            </text:list-item>
+           </text:list>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P30">Score</text:p>
+           <text:list>
+            <text:list-item>
+             <text:p text:style-name="P30">point notification upon kill</text:p>
+            </text:list-item>
+            <text:list-item>
+             <text:p text:style-name="P30">continually updated current score</text:p>
+            </text:list-item>
+            <text:list-item>
+             <text:p text:style-name="P30">high score notification?</text:p>
+            </text:list-item>
+            <text:list-item>
+             <text:p text:style-name="P30">Extra life per certain number of points?</text:p>
+            </text:list-item>
+           </text:list>
           </text:list-item>
          </text:list>
         </text:list-item>
@@ -2943,119 +3172,31 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P9"/>
-   <text:list xml:id="list23101387014316" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list25013031433763" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
+         <text:p text:style-name="P35">Graphics</text:p>
          <text:list>
           <text:list-item>
-           <text:p text:style-name="P20"><text:span text:style-name="T31">Controls</text:span></text:p>
-           <text:list>
-            <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">In menu</text:span></text:p>
-             <text:list>
-              <text:list-item>
-               <text:p text:style-name="P20"><text:span text:style-name="T31">keyboard selection (up, down, left, right, confirm)</text:span></text:p>
-              </text:list-item>
-              <text:list-item>
-               <text:p text:style-name="P20"><text:soft-page-break/><text:span text:style-name="T31">mouse selection</text:span></text:p>
-              </text:list-item>
-             </text:list>
-            </text:list-item>
-            <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">In game</text:span></text:p>
-             <text:list>
-              <text:list-item>
-               <text:p text:style-name="P20"><text:span text:style-name="T31">move left</text:span></text:p>
-              </text:list-item>
-              <text:list-item>
-               <text:p text:style-name="P20"><text:span text:style-name="T31">move right</text:span></text:p>
-              </text:list-item>
-              <text:list-item>
-               <text:p text:style-name="P20"><text:span text:style-name="T31">shoot</text:span></text:p>
-              </text:list-item>
-              <text:list-item>
-               <text:p text:style-name="P20"><text:span text:style-name="T31">pause</text:span></text:p>
-              </text:list-item>
-             </text:list>
-            </text:list-item>
-           </text:list>
+           <text:p text:style-name="P41">TBD</text:p>
           </text:list-item>
           <text:list-item>
-           <text:p text:style-name="P20"><text:span text:style-name="T31">Player</text:span></text:p>
-           <text:list>
-            <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">player movement</text:span></text:p>
-            </text:list-item>
-            <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">player projectile type/movement</text:span></text:p>
-            </text:list-item>
-            <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">player health/lives</text:span></text:p>
-            </text:list-item>
-            <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">player score</text:span></text:p>
-            </text:list-item>
-           </text:list>
+           <text:p text:style-name="P41">Based on what was provided by Professor Gross.</text:p>
           </text:list-item>
           <text:list-item>
-           <text:p text:style-name="P20"><text:span text:style-name="T31">Barriers</text:span></text:p>
-           <text:list>
-            <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">barrier number</text:span></text:p>
-            </text:list-item>
-            <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">barrier health</text:span></text:p>
-            </text:list-item>
-            <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">barrier regeneration?</text:span></text:p>
-            </text:list-item>
-           </text:list>
+           <text:p text:style-name="P41">Bosses which include CUNY staff, and others provided by Professor Gross. </text:p>
           </text:list-item>
           <text:list-item>
-           <text:p text:style-name="P20"><text:span text:style-name="T31">Enemies</text:span></text:p>
-           <text:list>
-            <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">enemy types/number per type (rows &amp; columns)</text:span></text:p>
-            </text:list-item>
-            <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">enemy movement style</text:span></text:p>
-            </text:list-item>
-            <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">enemy movement speed changes</text:span></text:p>
-            </text:list-item>
-            <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">enemy projectile type/movement/speed</text:span></text:p>
-            </text:list-item>
-            <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">enemy health</text:span></text:p>
-            </text:list-item>
-            <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">enemy worth(points)</text:span></text:p>
-            </text:list-item>
-            <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">special enemies(UFO, boss)</text:span></text:p>
-            </text:list-item>
-           </text:list>
+           <text:p text:style-name="P41">Weapons: Pens,Pencils etc… Provided by Professor Gross. <text:s/></text:p>
           </text:list-item>
           <text:list-item>
-           <text:p text:style-name="P20"><text:span text:style-name="T31">Score</text:span></text:p>
-           <text:list>
-            <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">point notification upon kill</text:span></text:p>
-            </text:list-item>
-            <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">continually updated current score</text:span></text:p>
-            </text:list-item>
-            <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">high score notification?</text:span></text:p>
-            </text:list-item>
-            <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">Extra life per certain number of points?</text:span></text:p>
-            </text:list-item>
-           </text:list>
+           <text:p text:style-name="P41">(Possibly final Boss President Donald J Trump). </text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P31">Note: Most of these requirements were provided in class via Professor Gross, refer to him for more information.</text:p>
           </text:list-item>
          </text:list>
         </text:list-item>
@@ -3065,41 +3206,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P10"/>
-   <text:list xml:id="list23101588679268" text:continue-numbering="true" text:style-name="WWNum4">
-    <text:list-item>
-     <text:list>
-      <text:list-item>
-       <text:list>
-        <text:list-item>
-         <text:p text:style-name="P20"><text:span text:style-name="T1">Graphics</text:span></text:p>
-         <text:list>
-          <text:list-item>
-           <text:p text:style-name="P20"><text:span text:style-name="T36">TBD</text:span></text:p>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P20"><text:span text:style-name="T36">Based on what was provided by Professor Gross.</text:span></text:p>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P20"><text:span text:style-name="T36">Bosses which include CUNY staff, and others provided by Professor Gross. </text:span></text:p>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P20"><text:span text:style-name="T36">Weapons: Pens,Pencils etc… Provided by Professor Gross. <text:s/></text:span></text:p>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P20"><text:span text:style-name="T36">(Possibly final Boss President Donald J Trump). </text:span></text:p>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P20"><text:span text:style-name="T32">Note: Most of these requirements were provided in class via Professor Gross, refer to him for more information.</text:span></text:p>
-          </text:list-item>
-         </text:list>
-        </text:list-item>
-       </text:list>
-      </text:list-item>
-     </text:list>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P12"/>
-   <text:list xml:id="list23101975681794" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list25013349755006" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -3107,111 +3214,111 @@
         <text:list-item>
          <text:list>
           <text:list-item>
-           <text:p text:style-name="P20"><text:span text:style-name="T31">Background image/animation</text:span></text:p>
+           <text:p text:style-name="P30">Background image/animation</text:p>
            <text:list>
             <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">main menu</text:span></text:p>
+             <text:p text:style-name="P30">main menu</text:p>
             </text:list-item>
             <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">scoreboard</text:span></text:p>
+             <text:p text:style-name="P30">scoreboard</text:p>
             </text:list-item>
             <text:list-item>
-             <text:p text:style-name="P20"><text:soft-page-break/><text:span text:style-name="T31">gameplay screen</text:span></text:p>
+             <text:p text:style-name="P30"><text:soft-page-break/>gameplay screen</text:p>
             </text:list-item>
             <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">game over screen</text:span></text:p>
+             <text:p text:style-name="P30">game over screen</text:p>
             </text:list-item>
            </text:list>
           </text:list-item>
           <text:list-item>
-           <text:p text:style-name="P20"><text:span text:style-name="T31">Fonts</text:span></text:p>
+           <text:p text:style-name="P30">Fonts</text:p>
            <text:list>
             <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T32">TBD</text:span></text:p>
+             <text:p text:style-name="P31">TBD</text:p>
             </text:list-item>
             <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T32">uniform or per mode?</text:span></text:p>
+             <text:p text:style-name="P31">uniform or per mode?</text:p>
             </text:list-item>
            </text:list>
           </text:list-item>
           <text:list-item>
-           <text:p text:style-name="P20"><text:span text:style-name="T31">Menus</text:span></text:p>
+           <text:p text:style-name="P30">Menus</text:p>
            <text:list>
             <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">buttons</text:span></text:p>
+             <text:p text:style-name="P30">buttons</text:p>
             </text:list-item>
             <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">sliders</text:span></text:p>
+             <text:p text:style-name="P30">sliders</text:p>
             </text:list-item>
            </text:list>
           </text:list-item>
           <text:list-item>
-           <text:p text:style-name="P20"><text:span text:style-name="T31">Player sprites</text:span></text:p>
+           <text:p text:style-name="P30">Player sprites</text:p>
            <text:list>
             <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">idle appearance</text:span></text:p>
+             <text:p text:style-name="P30">idle appearance</text:p>
             </text:list-item>
             <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">movement left/right</text:span></text:p>
+             <text:p text:style-name="P30">movement left/right</text:p>
             </text:list-item>
             <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">death</text:span></text:p>
+             <text:p text:style-name="P30">death</text:p>
             </text:list-item>
             <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">projectile(s)</text:span></text:p>
+             <text:p text:style-name="P30">projectile(s)</text:p>
             </text:list-item>
            </text:list>
           </text:list-item>
           <text:list-item>
-           <text:p text:style-name="P20"><text:span text:style-name="T31">Barrier sprites</text:span></text:p>
+           <text:p text:style-name="P30">Barrier sprites</text:p>
            <text:list>
             <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">default appearance</text:span></text:p>
+             <text:p text:style-name="P30">default appearance</text:p>
             </text:list-item>
             <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">hit/decay</text:span></text:p>
+             <text:p text:style-name="P30">hit/decay</text:p>
             </text:list-item>
             <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">destruction</text:span></text:p>
+             <text:p text:style-name="P30">destruction</text:p>
             </text:list-item>
            </text:list>
           </text:list-item>
           <text:list-item>
-           <text:p text:style-name="P20"><text:span text:style-name="T31">Enemy sprites (per enemy type)</text:span></text:p>
+           <text:p text:style-name="P30">Enemy sprites (per enemy type)</text:p>
            <text:list>
             <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">idle appearance</text:span></text:p>
+             <text:p text:style-name="P30">idle appearance</text:p>
             </text:list-item>
             <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">movement left/right/down</text:span></text:p>
+             <text:p text:style-name="P30">movement left/right/down</text:p>
             </text:list-item>
             <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">death(bloody)</text:span></text:p>
+             <text:p text:style-name="P30">death(bloody)</text:p>
             </text:list-item>
             <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">projectile(s)</text:span></text:p>
+             <text:p text:style-name="P30">projectile(s)</text:p>
             </text:list-item>
            </text:list>
           </text:list-item>
           <text:list-item>
-           <text:p text:style-name="P20"><text:span text:style-name="T31">Special(UFO, boss) enemy sprites</text:span></text:p>
+           <text:p text:style-name="P30">Special(UFO, boss) enemy sprites</text:p>
            <text:list>
             <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">idle appearance</text:span></text:p>
+             <text:p text:style-name="P30">idle appearance</text:p>
             </text:list-item>
             <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">movement left/right</text:span></text:p>
+             <text:p text:style-name="P30">movement left/right</text:p>
             </text:list-item>
             <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">death(most bloody)</text:span></text:p>
+             <text:p text:style-name="P30">death(most bloody)</text:p>
             </text:list-item>
            </text:list>
           </text:list-item>
           <text:list-item>
-           <text:p text:style-name="P20"><text:span text:style-name="T31">Score</text:span></text:p>
+           <text:p text:style-name="P30">Score</text:p>
            <text:list>
             <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">number sprites (upon enemy kill)</text:span></text:p>
+             <text:p text:style-name="P30">number sprites (upon enemy kill)</text:p>
             </text:list-item>
            </text:list>
           </text:list-item>
@@ -3222,14 +3329,14 @@
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P10"/>
-   <text:list xml:id="list23101505813852" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:p text:style-name="P9"/>
+   <text:list xml:id="list25013618674546" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P20"><text:span text:style-name="T34">Sound</text:span></text:p>
+         <text:p text:style-name="P38">Sound</text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
@@ -3237,7 +3344,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P7"/>
-   <text:list xml:id="list23101121483936" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list25013943183566" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -3245,22 +3352,22 @@
         <text:list-item>
          <text:list>
           <text:list-item>
-           <text:p text:style-name="P20"><text:span text:style-name="T31">Background music</text:span></text:p>
+           <text:p text:style-name="P30">Background music</text:p>
            <text:list>
             <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">main menu</text:span></text:p>
+             <text:p text:style-name="P30">main menu</text:p>
             </text:list-item>
             <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">high score list</text:span></text:p>
+             <text:p text:style-name="P30">high score list</text:p>
             </text:list-item>
             <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">pause menu</text:span></text:p>
+             <text:p text:style-name="P30">pause menu</text:p>
             </text:list-item>
             <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">gameplay</text:span></text:p>
+             <text:p text:style-name="P30">gameplay</text:p>
             </text:list-item>
             <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">game over screen</text:span></text:p>
+             <text:p text:style-name="P30">game over screen</text:p>
             </text:list-item>
            </text:list>
           </text:list-item>
@@ -3271,8 +3378,8 @@
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P11"/>
-   <text:list xml:id="list23102574308463" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:p text:style-name="P9"/>
+   <text:list xml:id="list25012475107608" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -3280,13 +3387,13 @@
         <text:list-item>
          <text:list>
           <text:list-item>
-           <text:p text:style-name="P20"><text:span text:style-name="T31">Menus</text:span></text:p>
+           <text:p text:style-name="P30">Menus</text:p>
            <text:list>
             <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">menu open/close effects</text:span></text:p>
+             <text:p text:style-name="P30">menu open/close effects</text:p>
             </text:list-item>
             <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">selection/click/confirmation effects</text:span></text:p>
+             <text:p text:style-name="P30">selection/click/confirmation effects</text:p>
             </text:list-item>
            </text:list>
           </text:list-item>
@@ -3297,8 +3404,8 @@
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P11"><text:soft-page-break/></text:p>
-   <text:list xml:id="list23101301936055" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:p text:style-name="P9"><text:soft-page-break/></text:p>
+   <text:list xml:id="list25012711319448" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -3306,22 +3413,22 @@
         <text:list-item>
          <text:list>
           <text:list-item>
-           <text:p text:style-name="P20"><text:span text:style-name="T31">Gameplay</text:span></text:p>
+           <text:p text:style-name="P30">Gameplay</text:p>
            <text:list>
             <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">Player</text:span></text:p>
+             <text:p text:style-name="P30">Player</text:p>
              <text:list>
               <text:list-item>
-               <text:p text:style-name="P20"><text:span text:style-name="T31">movement left/right effect?</text:span></text:p>
+               <text:p text:style-name="P30">movement left/right effect?</text:p>
               </text:list-item>
               <text:list-item>
-               <text:p text:style-name="P20"><text:span text:style-name="T31">projectile firing effect</text:span></text:p>
+               <text:p text:style-name="P30">projectile firing effect</text:p>
               </text:list-item>
               <text:list-item>
-               <text:p text:style-name="P20"><text:span text:style-name="T31">death effect</text:span></text:p>
+               <text:p text:style-name="P30">death effect</text:p>
               </text:list-item>
               <text:list-item>
-               <text:p text:style-name="P20"><text:span text:style-name="T31">game over effect</text:span></text:p>
+               <text:p text:style-name="P30">game over effect</text:p>
               </text:list-item>
              </text:list>
             </text:list-item>
@@ -3334,8 +3441,8 @@
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P11"/>
-   <text:list xml:id="list23101809739891" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:p text:style-name="P9"/>
+   <text:list xml:id="list25013026470753" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -3345,13 +3452,13 @@
           <text:list-item>
            <text:list>
             <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">Barrier</text:span></text:p>
+             <text:p text:style-name="P30">Barrier</text:p>
              <text:list>
               <text:list-item>
-               <text:p text:style-name="P20"><text:span text:style-name="T31">projectile striking effect</text:span></text:p>
+               <text:p text:style-name="P30">projectile striking effect</text:p>
               </text:list-item>
               <text:list-item>
-               <text:p text:style-name="P20"><text:span text:style-name="T31">destruction effect</text:span></text:p>
+               <text:p text:style-name="P30">destruction effect</text:p>
               </text:list-item>
              </text:list>
             </text:list-item>
@@ -3364,8 +3471,8 @@
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P11"/>
-   <text:list xml:id="list23101696201920" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:p text:style-name="P9"/>
+   <text:list xml:id="list25013223879182" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -3375,16 +3482,16 @@
           <text:list-item>
            <text:list>
             <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">Enemies(per enemy type)</text:span></text:p>
+             <text:p text:style-name="P30">Enemies(per enemy type)</text:p>
              <text:list>
               <text:list-item>
-               <text:p text:style-name="P20"><text:span text:style-name="T31">movement left/right/down effect (speed adjusted)</text:span></text:p>
+               <text:p text:style-name="P30">movement left/right/down effect (speed adjusted)</text:p>
               </text:list-item>
               <text:list-item>
-               <text:p text:style-name="P20"><text:span text:style-name="T31">projectile firing effect</text:span></text:p>
+               <text:p text:style-name="P30">projectile firing effect</text:p>
               </text:list-item>
               <text:list-item>
-               <text:p text:style-name="P20"><text:span text:style-name="T31">death effect</text:span></text:p>
+               <text:p text:style-name="P30">death effect</text:p>
               </text:list-item>
              </text:list>
             </text:list-item>
@@ -3397,8 +3504,8 @@
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P11"/>
-   <text:list xml:id="list23100509776784" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:p text:style-name="P9"/>
+   <text:list xml:id="list25014477425576" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -3408,13 +3515,13 @@
           <text:list-item>
            <text:list>
             <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">Special(UFO, boss) enemies</text:span></text:p>
+             <text:p text:style-name="P30">Special(UFO, boss) enemies</text:p>
              <text:list>
               <text:list-item>
-               <text:p text:style-name="P20"><text:span text:style-name="T31">appearance/movement effect</text:span></text:p>
+               <text:p text:style-name="P30">appearance/movement effect</text:p>
               </text:list-item>
               <text:list-item>
-               <text:p text:style-name="P20"><text:span text:style-name="T31">destruction effect</text:span></text:p>
+               <text:p text:style-name="P30">destruction effect</text:p>
               </text:list-item>
              </text:list>
             </text:list-item>
@@ -3427,8 +3534,8 @@
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P11"/>
-   <text:list xml:id="list23102245136067" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:p text:style-name="P9"/>
+   <text:list xml:id="list25012548066823" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -3438,10 +3545,10 @@
           <text:list-item>
            <text:list>
             <text:list-item>
-             <text:p text:style-name="P20"><text:span text:style-name="T31">Score</text:span></text:p>
+             <text:p text:style-name="P30">Score</text:p>
              <text:list>
               <text:list-item>
-               <text:p text:style-name="P20">new high score achieved</text:p>
+               <text:p text:style-name="P32">new high score achieved</text:p>
               </text:list-item>
              </text:list>
             </text:list-item>
@@ -3455,17 +3562,17 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard"/>
-   <text:list xml:id="list23101787885490" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list25014356311866" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P20"><text:span text:style-name="T1">Performance requirements</text:span></text:p>
+       <text:p text:style-name="P35">Performance requirements</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P3"/>
-   <text:list xml:id="list23100516781981" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:p text:style-name="P4"/>
+   <text:list xml:id="list25013629647178" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -3473,10 +3580,10 @@
         <text:list-item>
          <text:list>
           <text:list-item>
-           <text:p text:style-name="P20">Should run “smoothly” on any machine capable of installing and running Java 7 <text:tab/>JVM.</text:p>
+           <text:p text:style-name="P32">Should run “smoothly” on any machine capable of installing and running Java 7 <text:tab/>JVM.</text:p>
           </text:list-item>
           <text:list-item>
-           <text:p text:style-name="P20">Should not consume unnecessary memory(hard drive, RAM).</text:p>
+           <text:p text:style-name="P32">Should not consume unnecessary memory(hard drive, RAM).</text:p>
           </text:list-item>
          </text:list>
         </text:list-item>
@@ -3486,17 +3593,17 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard"/>
-   <text:list xml:id="list23100600400334" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list25014500695631" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P20"><text:span text:style-name="T1">Design constraints</text:span></text:p>
+       <text:p text:style-name="P35">Design constraints</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P3"/>
-   <text:list xml:id="list23101581432306" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:p text:style-name="P4"/>
+   <text:list xml:id="list25012629420411" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -3504,10 +3611,10 @@
         <text:list-item>
          <text:list>
           <text:list-item>
-           <text:p text:style-name="P20">Game should be designed using standard programming practices. Java Standards <text:tab/>may be read here: <text:a xlink:type="simple" xlink:href="https://google.github.io/styleguide/javaguide.html" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">https://google.github.io/styleguide/javaguide.html</text:span></text:a>.</text:p>
+           <text:p text:style-name="P32">Game should be designed using standard programming practices. Java Standards <text:tab/>may be read here: <text:a xlink:type="simple" xlink:href="https://google.github.io/styleguide/javaguide.html" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link">https://google.github.io/styleguide/javaguide.html</text:span></text:a>.</text:p>
           </text:list-item>
           <text:list-item>
-           <text:p text:style-name="P20">Hardware is limited to computers that are able to completely run Java 7’s JVM. Display or Resolution should be full screen to avoid issues with lower and higher end resolutions.</text:p>
+           <text:p text:style-name="P32">Hardware is limited to computers that are able to completely run Java 7’s JVM. Display or Resolution should be full screen to avoid issues with lower and higher end resolutions.</text:p>
           </text:list-item>
          </text:list>
         </text:list-item>
@@ -3517,17 +3624,17 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard"/>
-   <text:list xml:id="list23102556151776" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list25014496205883" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P20"><text:span text:style-name="T1">Software system attributes</text:span></text:p>
+       <text:p text:style-name="P35">Software system attributes</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P3"/>
-   <text:list xml:id="list23102025963992" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:p text:style-name="P4"/>
+   <text:list xml:id="list25012463583610" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -3535,10 +3642,10 @@
         <text:list-item>
          <text:list>
           <text:list-item>
-           <text:p text:style-name="P20">All code should be done on a machine currently running Java 7 JVM or better.</text:p>
+           <text:p text:style-name="P32">All code should be done on a machine currently running Java 7 JVM or better.</text:p>
           </text:list-item>
           <text:list-item>
-           <text:p text:style-name="P20"><text:span text:style-name="T36">*TBD - Other requirements</text:span></text:p>
+           <text:p text:style-name="P41">*TBD - Other requirements</text:p>
           </text:list-item>
          </text:list>
         </text:list-item>
@@ -3548,13 +3655,11 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P8"><text:soft-page-break/></text:p>
-   <text:list xml:id="list23101668365346" text:continue-numbering="true" text:style-name="WWNum4">
+   <text:list xml:id="list25012570897262" text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
-     <text:p text:style-name="P20"><text:span text:style-name="T21">*Index TBD</text:span></text:p>
+     <text:p text:style-name="P34">*Index TBD</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
    <text:p text:style-name="P8"/>
    <text:p text:style-name="P8"/>
    <text:p text:style-name="P8"/>
@@ -3564,7 +3669,9 @@
    <text:p text:style-name="P8"/>
    <text:p text:style-name="P8"/>
    <text:p text:style-name="P8"/>
-   <text:p text:style-name="P22"><text:span text:style-name="T36">*Starred and/or highlighted text indicates areas substantially (or completely) lacking content</text:span></text:p>
+   <text:p text:style-name="P8"/>
+   <text:p text:style-name="P8"/>
+   <text:p text:style-name="P40">*Starred and/or highlighted text indicates areas substantially (or completely) lacking content</text:p>
   </office:text>
  </office:body>
 </office:document>
