@@ -1,0 +1,22 @@
+The purpose of this document is to describe the usage of these images.
+
+The original Space Invaders game is an array of enemies. There are 5 different enemy types laid out
+in rows of eleven each. There is one Bonus enemy that occasionally flies back and forth. There are
+four barriers to protect the player, and a player graphic as well as the player and enemy "bullet"
+graphics.
+
+Graphics we have provided thus far:
+start menu screen - background1.png
+gameplay intro screen - background2.png
+enemy type 1 - prof1.png
+enemy type 2 - prof2.png
+enemy type 3 - prof5.png
+player type - student.png
+barrier - desk.png
+2 bullet types: chalk.png, pencil.png
+
+This list is still in progress. Backbone can consult us if they needed anything specific or need to
+make changes.
+
+-Randolph Cisneros
+Graphics Team Member
