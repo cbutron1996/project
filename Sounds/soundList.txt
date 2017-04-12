@@ -1,0 +1,42 @@
+List of required sound assets
+-----------------------------
+
+
+Menu Background Music				menu_bkrnd.wav		10 sec.
+
+Normal enemy movement effect			enemy_move.wav		0.5 sec.
+
+Special (Chancellor) movement effect		chanc_mov.wav		1 sec.
+
+
+Player projectile firing effect			student_shoot.wav	0.5 sec.
+
+Dean projectile firing effect		 	dean_shoot.wav		0.5 sec.
+
+Vice-Chancellor projectile firing effect	vice_shoot.wav		0.5 sec.
+
+Provost projectile firing effect		prov_shoot.wav		0.5 sec.
+
+
+Player destruction effect			student_death.wav	1 sec.
+
+Normal enemy destruction effect			enemy_death.wav		0.5 sec.
+
+Chancellor destruction effect			chanc_death.wav		1 sec.
+
+Desk barrier hit/damage effect			desk_hit.wav		0.5 sec.
+
+Desk barrier destruction effect			desk_death.wav		1 sec.
+
+Game Over effect				game_over.wav		2 sec.
+
+New high score effect				new_highscore.wav	2 sec.
+
+Menu open close & pause/unpause effect		pause.wav		0.5 sec.
+
+Button click/select effect			click.wav		0.5 sec.
+
+
+
+
+
