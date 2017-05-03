@@ -2,15 +2,19 @@ List of required sound assets
 -----------------------------
 
 
-Menu Background Music				menu_bkrnd.wav		10 sec.
+Menu Background Music				menu_bkrnd.wav		6 sec.  OK
 
-Normal enemy movement effect			enemy_move.wav		0.5 sec.
+In Game Background Music			game_bkrnd1.wav		4 sec.  OK
+						game_bkrnd2.wav		4 sec.	OK
+						game_bkrnd3.wav		4 sec.	OK	
 
-Special (Chancellor) movement effect		chanc_mov.wav		1 sec.
+Normal enemy movement effect			enemy_move.wav		3 sec.  OK
+
+Special (Chancellor) movement effect		chanc_mov.wav		4 sec.  OK
 
 
 Player projectile firing effect			student_shoot.wav	0.5 sec.
-
+e
 Dean projectile firing effect		 	dean_shoot.wav		0.5 sec.
 
 Vice-Chancellor projectile firing effect	vice_shoot.wav		0.5 sec.
@@ -18,23 +22,23 @@ Vice-Chancellor projectile firing effect	vice_shoot.wav		0.5 sec.
 Provost projectile firing effect		prov_shoot.wav		0.5 sec.
 
 
-Player destruction effect			student_death.wav	1 sec.
+Player destruction effect			student_death.wav	1 sec.  OK
 
-Normal enemy destruction effect			enemy_death.wav		0.5 sec.
+Normal enemy destruction effect			enemy_death.wav		0.5 sec.OK
 
-Chancellor destruction effect			chanc_death.wav		1 sec.
+Chancellor destruction effect			chanc_death.wav		1 sec.  OK
 
-Desk barrier hit/damage effect			desk_hit.wav		0.5 sec.
+Desk barrier hit/damage effect			desk_hit.wav		0.5 sec.OK
 
-Desk barrier destruction effect			desk_death.wav		1 sec.
+Desk barrier destruction effect			desk_death.wav		2 sec.  OK
 
-Game Over effect				game_over.wav		2 sec.
+Game Over effect				game_over.wav		6 sec.	OK
 
-New high score effect				new_highscore.wav	2 sec.
+New high score effect				new_highscore.wav	5 sec.	OK
 
-Menu open close & pause/unpause effect		pause.wav		0.5 sec.
+Menu open close & pause/unpause effect		pause.wav		0.5 sec.OK
 
-Button click/select effect			click.wav		0.5 sec.
+Button click/select effect			click.wav		0.5 sec.OK
 
 
 
